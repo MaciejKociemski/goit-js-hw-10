@@ -11,7 +11,7 @@ body {background-image: url(/src/images/earth-1458557_1280.jpg);background-attac
   color: #212121;
   line-height: 1.5;
 }
-h1{text-shadow: 1px 1px 2px rgb(248, 238, 238), 0 0 1em blue, 0 0 0.2em }
+h1{text-shadow: 1px 1px 2px rgb(248, 248, 238), 0 0 1em blue, 0 0 0.2em }
 
 
 #search-box {
@@ -28,7 +28,7 @@ h1{text-shadow: 1px 1px 2px rgb(248, 238, 238), 0 0 1em blue, 0 0 0.2em }
   background-color: #fff;
   border: 1px solid hsl(0, 0%, 0%);
   background-color: #fff;
-  box-shadow: 10px 10px 5px hsl(59,72%,76%);
+  box-shadow: 10px 10px 5px rgb(238, 220, 174);
 }
 
   /* .btn{cursor: pointer;} */
