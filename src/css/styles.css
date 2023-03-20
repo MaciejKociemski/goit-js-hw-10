@@ -11,6 +11,8 @@ body {background-image: url(/src/images/lemon-1444025_1280.jpg);background-attac
   color: #212121;
   line-height: 1.5;
 }
+h1{text-shadow: 1px 1px 2px rgb(248, 238, 238), 0 0 1em blue, 0 0 0.2em }
+
 
 #search-box {
   font: inherit;
@@ -49,3 +51,4 @@ body {background-image: url(/src/images/lemon-1444025_1280.jpg);background-attac
   background-color: rgb(164, 186, 186);
   border: 1px solid blue;
 }
+
