@@ -82,3 +82,4 @@ refreshButton.addEventListener('click', refreshPage)
 //
 
 searchEl.addEventListener('input', debounce(inputHandler, DEBOUNCE_DELAY));
+
